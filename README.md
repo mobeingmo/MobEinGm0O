@@ -1,9 +1,1 @@
-- Skilled in Reverse Engineering, Forensics, PWN, Web, OSINT, Cryptograpghy, Steganothrophy, Binary Exploitation and Linux privillage Escalation.
-- 2x local CTF winner and participant.
-- 250+ challenges solved in online CTFs.
-- python, javascript, java, assembly, HTML5 + CSS, cpp and Rust.
-- ASU Certified in Digital Active and Passive Footprinting.
-- PicoCTF progress: 61.62%.
-- OverTheWire Bandit all 34 levels completed. 
-- Debian & Windows Dual Boot 
-- Pentest home lab owner
+hi lol
